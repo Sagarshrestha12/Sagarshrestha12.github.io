@@ -11,10 +11,10 @@
   position: sticky;
   top: 0;
   z-index: 1000;
-  padding: 0 2rem;
   height: 64px;
   width: 100%;
-  border-width: 0 1px 1px 1px;
+  padding: 0 4rem;
+  border-width: 0 0px 1px 0px;
   border-style: solid;
   border-color: #eaeaeb;
 }
@@ -46,4 +46,15 @@
 .header .btn-resume-download:hover {
   background-color: #007bff;
   color: white;
+}
+
+.about img {
+  width: 100px;
+  height: 100px;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.content-container {
+  padding: 0 4rem;
 }
