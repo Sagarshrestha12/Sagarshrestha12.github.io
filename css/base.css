@@ -94,6 +94,7 @@ hr {
 :root {
   --blue: #007bff;
   --bg-card: #f8f8fb;
+  --git-green: #28a745;
   --border-accent: rgba(79, 70, 229, 0.25);
   --border: rgba(0, 0, 0, 0.08);
 }
