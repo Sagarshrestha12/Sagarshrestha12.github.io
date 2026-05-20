@@ -97,6 +97,7 @@ hr {
   --git-green: #28a745;
   --border-accent: rgba(79, 70, 229, 0.25);
   --border: rgba(0, 0, 0, 0.08);
+  --git-red: #dc2626;
 }
 
 .font-mono {
